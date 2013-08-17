@@ -1,0 +1,28 @@
+8
+
+dir
+696
+svn+ssh://rubyforge.org/var/svn/codeforpeople/terminator/trunk/doc/classes/Terminator.src
+svn+ssh://rubyforge.org/var/svn/codeforpeople
+
+
+
+2008-09-21T01:03:17.179252Z
+696
+mikel
+
+
+svn:special svn:externals svn:needs-lock
+
+M000001.html
+file
+
+
+
+
+2008-09-21T01:02:41.000000Z
+7060817ce160bbe271c9cfe4d9635596
+2008-09-21T01:03:17.179252Z
+696
+mikel
+

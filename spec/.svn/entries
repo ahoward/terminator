@@ -1,0 +1,40 @@
+8
+
+dir
+689
+svn+ssh://rubyforge.org/var/svn/codeforpeople/terminator/trunk/spec
+svn+ssh://rubyforge.org/var/svn/codeforpeople
+
+
+
+2008-09-11T00:49:27.581741Z
+689
+mikel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+29922619-e960-4932-8d85-0e0be7f1775a
+
+terminator_spec.rb
+file
+695
+
+
+
+2008-09-21T00:55:11.000000Z
+e4ef1fe77197ef224622b5b2041cd1bf
+2008-09-20T23:25:51.903727Z
+695
+mikel
+
